@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea5b0e18-7a75-42d8-983c-5998824ca06e" name="Changes" comment="Day 1 Selenium Intro">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/Cydeo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T1_CydeoVerifications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T2_LinkTextPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T3_GoogleSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T4_LibraryLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.java" afterDir="false" />
+    <list default="true" id="ea5b0e18-7a75-42d8-983c-5998824ca06e" name="Changes" comment="day2_locators_getText_getAttribute">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,8 +125,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643687155102</updated>
-      <workItem from="1643687157221" duration="22316000" />
+      <workItem from="1643687157221" duration="22416000" />
     </task>
+    <task id="LOCAL-00001" summary="day2_locators_getText_getAttribute">
+      <created>1644246002361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644246002362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +153,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1 Selenium Intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 1 Selenium Intro" />
+    <MESSAGE value="day2_locators_getText_getAttribute" />
+    <option name="LAST_COMMIT_MESSAGE" value="day2_locators_getText_getAttribute" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
