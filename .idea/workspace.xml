@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea5b0e18-7a75-42d8-983c-5998824ca06e" name="Changes" comment="day2_locators_getText_getAttribute">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T1_locators_getText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T2_getText_getAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T3_cssSelector_xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T4_cssSelector_getText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/NextBaseCRM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebDriverFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +47,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.T3_GoogleSearch">
-    <configuration name="BasicNavigations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.BasicNavigations" />
+  <component name="RunManager" selected="Application.T3_cssSelector_xpath">
+    <configuration name="Cydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Cydeo" />
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -55,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Cydeo" />
+    <configuration name="NextBaseCRM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.homeWork.NextBaseCRM" />
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
+          <option name="PATTERN" value="com.cydeo.tests.homeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_YahooTitleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Task1_YahooTitleVerification" />
+    <configuration name="T3_cssSelector_xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day3_cssSelector_xpath.T3_cssSelector_xpath" />
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day3_cssSelector_xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T3_cssSelector_xpath" />
+        <item itemvalue="Application.NextBaseCRM" />
         <item itemvalue="Application.T3_GoogleSearch" />
         <item itemvalue="Application.T2_LinkTextPractice" />
         <item itemvalue="Application.Cydeo" />
-        <item itemvalue="Application.Task1_YahooTitleVerification" />
-        <item itemvalue="Application.BasicNavigations" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643687155102</updated>
       <workItem from="1643687157221" duration="22416000" />
+      <workItem from="1644331396959" duration="8509000" />
     </task>
     <task id="LOCAL-00001" summary="day2_locators_getText_getAttribute">
       <created>1644246002361</created>
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644246002362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day2_locators_getText_getAttribute">
+      <created>1644331497348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644331497349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
