@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea5b0e18-7a75-42d8-983c-5998824ca06e" name="Changes" comment="day2_locators_getText_getAttribute">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T1_locators_getText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T2_getText_getAttribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T3_cssSelector_xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_xpath/T4_cssSelector_getText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/NextBaseCRM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebDriverFactory.java" afterDir="false" />
+    <list default="true" id="ea5b0e18-7a75-42d8-983c-5998824ca06e" name="Changes" comment="day3_cssSelector_xpath">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T1_xpath_cssSelector_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T4_findElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T5_checkboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T6_StaleElementReferenceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdown/TestNG_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdown/TestNG_Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframes_windows/T1_Alert_Practices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T1_WindowHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T3_CRM_LOGIN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day2/T1_Etsy_Title_Verification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day2/T2_Zero_Bank_Header_Verification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day5/T5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day5/T8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day5_Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/CRM_Utilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day3_cssSelector_xpath/T3_cssSelector_xpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day3_cssSelector_xpath/T3_cssSelector_xpath.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +61,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.T3_cssSelector_xpath">
-    <configuration name="Cydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Cydeo" />
+  <component name="RunManager" selected="TestNG.T3_CRM_LOGIN.crm_login_test_2">
+    <configuration name="T1_Etsy_Title_Verification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.homeWork.day2.T1_Etsy_Title_Verification" />
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
+          <option name="PATTERN" value="com.cydeo.tests.homeWork.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,65 +75,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextBaseCRM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.homeWork.NextBaseCRM" />
+    <configuration name="T1_WindowHandling.window_handling_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.homeWork.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day7_webtables_utilities_javafaker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker.T1_WindowHandling" />
+      <option name="METHOD_NAME" value="window_handling_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2_LinkTextPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators_getText_getAttribute.T2_LinkTextPractice" />
+    <configuration name="T3_CRM_LOGIN.crm_login_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators_getText_getAttribute.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day7_webtables_utilities_javafaker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker.T3_CRM_LOGIN" />
+      <option name="METHOD_NAME" value="crm_login_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators_getText_getAttribute.T3_GoogleSearch" />
+    <configuration name="T3_CRM_LOGIN.crm_login_test_2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators_getText_getAttribute.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day7_webtables_utilities_javafaker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker.T3_CRM_LOGIN" />
+      <option name="METHOD_NAME" value="crm_login_test_2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_cssSelector_xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day3_cssSelector_xpath.T3_cssSelector_xpath" />
+    <configuration name="TestNG_Selenium.selenium_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day3_cssSelector_xpath.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day5_testNG_intro_dropdown.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdown" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdown.TestNG_Selenium" />
+      <option name="METHOD_NAME" value="selenium_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T3_cssSelector_xpath" />
-        <item itemvalue="Application.NextBaseCRM" />
-        <item itemvalue="Application.T3_GoogleSearch" />
-        <item itemvalue="Application.T2_LinkTextPractice" />
-        <item itemvalue="Application.Cydeo" />
+        <item itemvalue="TestNG.T3_CRM_LOGIN.crm_login_test_2" />
+        <item itemvalue="TestNG.T3_CRM_LOGIN.crm_login_test" />
+        <item itemvalue="TestNG.T1_WindowHandling.window_handling_test" />
+        <item itemvalue="Application.T1_Etsy_Title_Verification" />
+        <item itemvalue="TestNG.TestNG_Selenium.selenium_test" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +166,12 @@
       <option name="presentableId" value="Default" />
       <updated>1643687155102</updated>
       <workItem from="1643687157221" duration="22416000" />
-      <workItem from="1644331396959" duration="8509000" />
+      <workItem from="1644331396959" duration="8603000" />
+      <workItem from="1644608565407" duration="4906000" />
+      <workItem from="1644935091221" duration="6688000" />
+      <workItem from="1645071394354" duration="1231000" />
+      <workItem from="1645133758473" duration="7739000" />
+      <workItem from="1645546619741" duration="6964000" />
     </task>
     <task id="LOCAL-00001" summary="day2_locators_getText_getAttribute">
       <created>1644246002361</created>
@@ -148,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644331497349</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day3_cssSelector_xpath">
+      <created>1644470921279</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644470921279</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +214,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1 Selenium Intro" />
     <MESSAGE value="day2_locators_getText_getAttribute" />
-    <option name="LAST_COMMIT_MESSAGE" value="day2_locators_getText_getAttribute" />
+    <MESSAGE value="day3_cssSelector_xpath" />
+    <option name="LAST_COMMIT_MESSAGE" value="day3_cssSelector_xpath" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

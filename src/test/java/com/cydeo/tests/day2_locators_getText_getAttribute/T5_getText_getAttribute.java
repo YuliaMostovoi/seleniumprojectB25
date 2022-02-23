@@ -21,9 +21,32 @@ public class T5_getText_getAttribute {
         //Expected: Registration form
         WebElement headerText = driver.findElement(By.tagName("h2"));
         String expectedHeaderText = headerText.getText();
-        String actualHeaderText = headerText.getText();
+        String actualHeaderText = headerText.getText(); // will return "Registration form" as String
 
+        if (actualHeaderText.equals(expectedHeaderText)){
+            System.out.println("Header text verification PASSED!");
+        }else{
+            System.out.println("Header text verification FAILED!!!");
+        }
 
+        //4- Locate “First name” input box
+        // we are locating the web element using "name" locator
+        // name attribute has "firstname" value
+        //WebElement firstNameInput = driver.findElement(By.name("firstname"));
+        WebElement firstNameInput = driver.findElement(By.className("form-control"));
+
+        //5- Verify placeholder attribute’s value is as expected:
+        // Expected: first name
+        String expectedPlaceHolder = "first name";
+        String actualPlaceHolder = firstNameInput.getAttribute("placeholder");
+
+        if (actualPlaceHolder.equals(expectedPlaceHolder)){
+            System.out.println("Placeholder text verification PASSED!");
+        }else{
+            System.out.println("Placeholder text verification FAILED!!!");
+        }
+
+        driver.close();
 
     }
 
