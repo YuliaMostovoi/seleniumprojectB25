@@ -4,28 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea5b0e18-7a75-42d8-983c-5998824ca06e" name="Changes" comment="day3_cssSelector_xpath">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T1_xpath_cssSelector_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T4_findElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T5_checkboxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_checkboxes_radio/T6_StaleElementReferenceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdown/TestNG_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_testNG_intro_dropdown/TestNG_Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframes_windows/T1_Alert_Practices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T1_WindowHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T3_CRM_LOGIN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day2/T1_Etsy_Title_Verification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day2/T2_Zero_Bank_Header_Verification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day5/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day5/T8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/day5_Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/CRM_Utilities.java" afterDir="false" />
+    <list default="true" id="ea5b0e18-7a75-42d8-983c-5998824ca06e" name="Changes" comment="day7 T3_CRM_LOGIN">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/office_hours_practice2_23/SmartBearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/office_hours_practice2_23/TC1_SmartBearLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/office_hours_practice2_23/TC2_MultipleButtonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day2_locators_getText_getAttribute/T5_getText_getAttribute.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day3_cssSelector_xpath/T3_cssSelector_xpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day3_cssSelector_xpath/T3_cssSelector_xpath.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +154,8 @@
       <workItem from="1644935091221" duration="6688000" />
       <workItem from="1645071394354" duration="1231000" />
       <workItem from="1645133758473" duration="7739000" />
-      <workItem from="1645546619741" duration="6964000" />
+      <workItem from="1645546619741" duration="8416000" />
+      <workItem from="1645644574746" duration="1622000" />
     </task>
     <task id="LOCAL-00001" summary="day2_locators_getText_getAttribute">
       <created>1644246002361</created>
@@ -194,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644470921279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day7 T3_CRM_LOGIN">
+      <created>1645591333444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645591333444</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +206,8 @@
     <MESSAGE value="Day 1 Selenium Intro" />
     <MESSAGE value="day2_locators_getText_getAttribute" />
     <MESSAGE value="day3_cssSelector_xpath" />
-    <option name="LAST_COMMIT_MESSAGE" value="day3_cssSelector_xpath" />
+    <MESSAGE value="day7 T3_CRM_LOGIN" />
+    <option name="LAST_COMMIT_MESSAGE" value="day7 T3_CRM_LOGIN" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
