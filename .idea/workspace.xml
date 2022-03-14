@@ -5,10 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea5b0e18-7a75-42d8-983c-5998824ca06e" name="Changes" comment="day7 T3_CRM_LOGIN">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/office_hours_practice2_23/SmartBearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/office_hours_practice2_23/TC1_SmartBearLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/office_hours_practice2_23/TC2_MultipleButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/DoubleClickPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/DynamicControlsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/DynamicLoad1Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/DynamicLoad7Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/LibraryLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day10_upload_actions_jsexecutor/T1_Registration_Form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day10_upload_actions_jsexecutor/T2_Upload_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day10_upload_actions_jsexecutor/T3_Actions_Hover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day10_upload_actions_jsexecutor/T6_JavascriptExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day11_actions_jsexecutor_practice/ActionsPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day11_actions_jsexecutor_practice/T1_Circle_Drag_N_Drop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day11_actions_jsexecutor_practice/T7_Scroll_JSExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day12_pom_design_explicit_wait/POMPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day12_pom_design_explicit_wait/WebDriveWaitPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day13_review_and_practices/ExplicitWaitPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day13_review_and_practices/T1_DoubleClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day8_properties_config_reader/LearningProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day8_properties_config_reader/ReadingProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day8_properties_config_reader/T1_WebTable_Order_Verify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day8_properties_config_reader/T4_Config_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day9_javafaker_testbase_driverUtil/JavaFakerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day9_javafaker_testbase_driverUtil/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day9_javafaker_testbase_driverUtil/SingletonPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeWork/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/testNextBaseCRM_US/US5_MessageTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebTableUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T3_CRM_LOGIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T3_CRM_LOGIN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,34 +72,39 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="TestNG.T3_CRM_LOGIN.crm_login_test_2">
-    <configuration name="T1_Etsy_Title_Verification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.homeWork.day2.T1_Etsy_Title_Verification" />
+  <component name="RunManager" selected="TestNG.T1_Registration_Form.registration_form_test">
+    <configuration name="SingletonPractice" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.homeWork.day2.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day9_javafaker_testbase_driverUtil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day9_javafaker_testbase_driverUtil" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day9_javafaker_testbase_driverUtil.SingletonPractice" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1_WindowHandling.window_handling_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SingletonPractice.singleton_understand_test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day7_webtables_utilities_javafaker.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day9_javafaker_testbase_driverUtil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker.T1_WindowHandling" />
-      <option name="METHOD_NAME" value="window_handling_test" />
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day9_javafaker_testbase_driverUtil" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day9_javafaker_testbase_driverUtil.SingletonPractice" />
+      <option name="METHOD_NAME" value="singleton_understand_test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -76,17 +112,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_CRM_LOGIN.crm_login_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="T1_Registration_Form.registration_form_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day7_webtables_utilities_javafaker.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day10_upload_actions_jsexecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker.T3_CRM_LOGIN" />
-      <option name="METHOD_NAME" value="crm_login_test" />
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day10_upload_actions_jsexecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day10_upload_actions_jsexecutor.T1_Registration_Form" />
+      <option name="METHOD_NAME" value="registration_form_test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -94,35 +130,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_CRM_LOGIN.crm_login_test_2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="T2_Upload_Practice" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day7_webtables_utilities_javafaker.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day10_upload_actions_jsexecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day7_webtables_utilities_javafaker.T3_CRM_LOGIN" />
-      <option name="METHOD_NAME" value="crm_login_test_2" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day10_upload_actions_jsexecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day10_upload_actions_jsexecutor.T2_Upload_Practice" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNG_Selenium.selenium_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="T2_Upload_Practice.upload_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day5_testNG_intro_dropdown.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day10_upload_actions_jsexecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdown" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day5_testNG_intro_dropdown.TestNG_Selenium" />
-      <option name="METHOD_NAME" value="selenium_test" />
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day10_upload_actions_jsexecutor" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day10_upload_actions_jsexecutor.T2_Upload_Practice" />
+      <option name="METHOD_NAME" value="upload_test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.T3_CRM_LOGIN.crm_login_test_2" />
-        <item itemvalue="TestNG.T3_CRM_LOGIN.crm_login_test" />
-        <item itemvalue="TestNG.T1_WindowHandling.window_handling_test" />
-        <item itemvalue="Application.T1_Etsy_Title_Verification" />
-        <item itemvalue="TestNG.TestNG_Selenium.selenium_test" />
+        <item itemvalue="TestNG.T1_Registration_Form.registration_form_test" />
+        <item itemvalue="TestNG.T2_Upload_Practice.upload_test" />
+        <item itemvalue="TestNG.T2_Upload_Practice" />
+        <item itemvalue="TestNG.SingletonPractice" />
+        <item itemvalue="TestNG.SingletonPractice.singleton_understand_test1" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +190,13 @@
       <workItem from="1645071394354" duration="1231000" />
       <workItem from="1645133758473" duration="7739000" />
       <workItem from="1645546619741" duration="8416000" />
-      <workItem from="1645644574746" duration="1622000" />
+      <workItem from="1645644574746" duration="1943000" />
+      <workItem from="1645766260617" duration="15572000" />
+      <workItem from="1646079497217" duration="3404000" />
+      <workItem from="1646407872965" duration="10489000" />
+      <workItem from="1646756374042" duration="8860000" />
+      <workItem from="1646929234974" duration="2532000" />
+      <workItem from="1646969496176" duration="10613000" />
     </task>
     <task id="LOCAL-00001" summary="day2_locators_getText_getAttribute">
       <created>1644246002361</created>
@@ -185,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645591333444</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day7 T3_CRM_LOGIN">
+      <created>1645660052962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645660052962</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
